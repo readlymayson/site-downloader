@@ -1,0 +1,8 @@
+# Пример файла со списком URL для скачивания
+# Строки, начинающиеся с #, игнорируются
+
+# Документация Python
+https://docs.python.org/3/tutorial/introduction.html
+https://docs.python.org/3/tutorial/interpreter.html
+
+# Добавьте свои URL здесь, по одному на строку

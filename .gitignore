@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+env/
+
+# Скачанные данные (результаты работы скрипта)
+downloaded_docs/
+amocrm_docs/
+wazzup_docs/
+test_docs/
+tree_amocrm_docs
+tree_wazzap_docs
+amocrm_links.txt
+wazzup_links.txt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Временные файлы
+*.tmp
+*.log
